@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Ренат Шакиров](https://up.htmlacademy.ru/htmlcss/27/user/1065977).
+* Наставник: [Николай Чередник](https://htmlacademy.ru/profile/id867417)
 
 ---
 
